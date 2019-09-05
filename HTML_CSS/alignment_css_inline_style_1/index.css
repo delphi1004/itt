@@ -1,0 +1,12 @@
+body {
+
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    text-align: left;
+    font-size: 40px;
+    font-weight: 900;
+    letter-spacing: 10px;
+    line-height: 120%;
+}
